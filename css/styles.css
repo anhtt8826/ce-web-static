@@ -11815,3 +11815,11 @@ section#lien-he form#lien-heForm :-ms-input-placeholder {
 .zalo-chat-widget {
   bottom: 72px !important;
 }
+
+.div-center{
+  text-align: center;
+}
+
+.width-70{
+  width: 70%;
+}
